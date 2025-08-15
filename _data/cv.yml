@@ -49,18 +49,18 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
-      description: 
+      description:
         - Built FinetuneX, a modular from scratch framework for fine-tuning LLMs with custom architecture component following model technical reports.
         - Implemented post-training algorithm (Supervised Fine-Tuning) with support for multiple model families (Qwen2.5 and LLama) and optimized training techniques.
         - Developed a user-facing platform enabling custom dataset upload, training configuration selection and base vs fine-tuned model comparison.
         - Designed the framework to support multiple model architecture and future extensions for various fine-tuning capabilities (LoRA, QLoRA) and instruction tuning based on human preferences for research-oriented experimentation.
 
     - title: <a href="https://github.com/Khan-Ramsha/FasalGuru">FasalGuru</a>
-      description: 
-      - Engineered an AI-powered agricultural assistant that delivers pest detection, irrigation guidance, fertilizer recommendations, and disease prevention tailored to real-time weather conditions.
-      - Fine-tuned and deployed a ResNet18 model for classifying 22 crop diseases, integrated with Ollama-hosted  LLMs to generate dynamic prevention plans using live weather data.
-      - Trained Machine Learning models with Scikit-learn for irrigation and fertilizer prediction, enhancing precision farming capabilities.
-      - Enabled multilingual support across 200+ languages, expanding accessibility for diverse farming communities
+      description:
+        - Engineered an AI-powered agricultural assistant that delivers pest detection, irrigation guidance, fertilizer recommendations, and disease prevention tailored to real-time weather conditions.
+        - Fine-tuned and deployed a ResNet18 model for classifying 22 crop diseases, integrated with Ollama-hosted  LLMs to generate dynamic prevention plans using live weather data.
+        - Trained Machine Learning models with Scikit-learn for irrigation and fertilizer prediction, enhancing precision farming capabilities.
+        - Enabled multilingual support across 200+ languages, expanding accessibility for diverse farming communities
 
 - title: Achievements
   type: time_table
