@@ -2,31 +2,36 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Swayam Singh
+    - name: Email Address
+      value: <a href="mailto:singhswayam008@gmail.com">singhswayam008@gmail.com</a>
+    - name: Phone Number
+      value: +91 9116277756
+    - name: Profiles
+      links:
+        - name: "GitHub"
+          link: "https://github.com/khan-Ramsha"
+        - name: "LinkedIn"
+          link: "https://www.linkedin.com/in/kramsha/"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Tech in Computer Engineering
+      institution: University of Mumbai, India
+      year: 2023 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: "Courses Work:"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - "Gained a comprehensive understanding of key areas through courses like Data Structures, Algorithms, Operating Systems, Big Data, and Software Engineering."
+        - title: "Skills Acquired:"
+          contents:
+            - "Acquired hands-on experience with multiple programming languages, such as Python, and C++, along with proficiency in Data Analysis and Machine Learning."
+        - title: "Projects and Research:"
+          contents:
+            - "Actively involved in projects focused on Machine Learning with Natural Language Processing and Computer Vision."
+            - "Developing a comprehensive benchmark for performance-improving code-generation analysis of LLMs."
+            - "Building a system to help users try different clothes virtually by just uploading the image."
 
 - title: Experience
   type: time_table
