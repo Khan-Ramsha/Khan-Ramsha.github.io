@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ramsha
-middle_name:
+middle_name:  
 last_name: Khan
 email: khanramsha302020@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -119,7 +119,7 @@ external_sources:
     posts:
       - url: "https://www.notion.so/The-Math-behind-Rotating-Attention-23d71454a834808a879df30519ded1df"
         published_date: 2025-08-05
-        description: A deep dive into how RoPE works in transformers
+        post.description: A deep dive into how RoPE works in transformers
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
