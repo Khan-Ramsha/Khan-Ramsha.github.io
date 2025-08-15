@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: Blog
 nav: true
-nav_order: 1  
+nav_order: 1
 ---
 
 <div class="post">
@@ -12,7 +12,7 @@ nav_order: 1
   {% if site.blog_name or site.blog_description %}
   <div class="header-bar">
     {% if site.blog_name %}
-      <h1>{{ site.blog_name }}</h1>
+      <h3>{{ site.blog_name }}</h3>
     {% endif %}
     {% if site.blog_description %}
       <h2>{{ site.blog_description }}</h2>
@@ -42,11 +42,11 @@ nav_order: 1
             <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
           {% endif %}
         </h3>
-        
+
         {% if post.description %}
         <p class="post-description">{{ post.description }}</p>
         {% endif %}
-        
+
         <p class="post-meta">
           {{ post.date | date: '%B %d, %Y' }} &nbsp; &middot; &nbsp; {{ read_time }} min read
           {% if post.external_source %}
@@ -69,10 +69,13 @@ nav_order: 1
     </li>
 
     {% endfor %}
+
   </ul>
 
   <!-- Message when no posts exist -->
-  {% if site.posts.size == 0 %}
+
+{% if site.posts.size == 0 %}
+
   <div class="no-posts">
     <p>No blog posts yet. Check back soon!</p>
   </div>
