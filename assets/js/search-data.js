@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my work",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -46,51 +46,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-eduresource-hub",
+          title: 'EduResource Hub',
+          description: "EduResourceHub is an NLP-powered platform that recommends NPTEL courses and online resources by matching uploaded syllabi with the most relevant educational content using vector similarity.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/EduResourcehub/";
+            },},{id: "projects-fasalguru",
+          title: 'FasalGuru',
+          description: "An AI platform for farmers and agri-businesses, offering image-based crop disease detection and prevention suggestions, smart fertilizer and irrigation recommendation according to real-time weather.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/Fasalguru/";
+            },},{id: "projects-finetunex",
+          title: 'FinetuneX',
+          description: "A powerful framework to democratize LLM fine-tuning allows to choose custom training methods and interact with the fine-tuned model.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/FinetuneX/";
+            },},{id: "projects-vocalscribe",
+          title: 'VocalScribe',
+          description: "VocalScribe is an AI-powered meeting assistant that transcribes speech in real time using Whisper, summarizes with Mistral 7B, and exports professionally formatted meeting records.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/VocalScribe/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
