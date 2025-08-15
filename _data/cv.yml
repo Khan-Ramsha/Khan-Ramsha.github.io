@@ -33,19 +33,18 @@
           contents:
             - "Fundamentals of Programming (C++, Python), Database Management System, Operating System, Computer Networks"
 
+
 - title: Work Experience
   type: time_table
   contents:
     - title: Data Analyst Intern
       institution: PrepInsta Technology
-      year: Jan 2024 - Apr 2024
+      year: Jan - Apr 2024
       description:
         - Engineered data preprocessing pipeline for 8+ datasets using Python and SQL, reducing data inconsistencies by 90% and standardizing analysis-ready datasets.
         - Performed in-depth exploratory data analysis to identify key trends and patterns that lead to actionable business insights.
         - Recreated World Bank data visualization, following Sir Hans Rosling’s style, showcasing data storytelling expertise.
-        - Developed an interactive Air Quality Analysis dashboard using Tableau, incorporating dynamic filters and diverse visualizations for comprehensive data storytelling. [View Dashboard](https://public.tableau.com/shared/NDRRF4XZB?:display_count=n&:origin=viz_share_link)
-
-- title: Projects
+        - Developed an interactive Air Quality Analysis dashboard using Tableau, incorporating dynamic filters and diverse visualizations for comprehensive data storytelling.
   type: time_table
   contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
