@@ -118,8 +118,8 @@ external_sources:
   - name: The Math behind Rotating Attention
     posts:
       - url: "https://www.notion.so/The-Math-behind-Rotating-Attention-23d71454a834808a879df30519ded1df"
-        published_date: 2025-08-05
-        post.description: A deep dive into how RoPE works in transformers
+      - published_date: 2025-08-05
+      - description: A deep dive into how RoPE works in transformers
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
