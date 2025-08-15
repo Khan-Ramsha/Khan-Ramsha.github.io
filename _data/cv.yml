@@ -45,7 +45,10 @@
         - Performed in-depth exploratory data analysis to identify key trends and patterns that lead to actionable business insights.
         - Recreated World Bank data visualization, following Sir Hans Rosling’s style, showcasing data storytelling expertise.
         - Developed an interactive Air Quality Analysis dashboard using Tableau, incorporating dynamic filters and diverse visualizations for comprehensive data storytelling.
-    
+
+- title: Projects
+  type: time_table
+  contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
         - Built FinetuneX, a modular from scratch framework for fine-tuning LLMs with custom architecture component following model technical reports.
