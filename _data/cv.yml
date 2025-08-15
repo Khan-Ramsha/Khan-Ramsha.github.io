@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Swayam Singh
+      value: Ramsha Khan
     - name: Email Address
-      value: <a href="mailto:singhswayam008@gmail.com">singhswayam008@gmail.com</a>
+      value: <a href="mailto:khanramsha302020@gmail.com">khanramsha302020@gmail.com</a>
     - name: Phone Number
-      value: +91 9116277756
+      value: +91 7304894689
     - name: Profiles
       links:
         - name: "GitHub"
@@ -22,17 +22,7 @@
       year: 2023 - 2026
       description:
         - title: "Courses Work:"
-          contents:
-            - "Gained a comprehensive understanding of key areas through courses like Data Structures, Algorithms, Operating Systems, Big Data, and Software Engineering."
-        - title: "Skills Acquired:"
-          contents:
-            - "Acquired hands-on experience with multiple programming languages, such as Python, and C++, along with proficiency in Data Analysis and Machine Learning."
-        - title: "Projects and Research:"
-          contents:
-            - "Actively involved in projects focused on Machine Learning with Natural Language Processing and Computer Vision."
-            - "Developing a comprehensive benchmark for performance-improving code-generation analysis of LLMs."
-            - "Building a system to help users try different clothes virtually by just uploading the image."
-
+        
 - title: Experience
   type: time_table
   contents:
