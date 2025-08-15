@@ -45,8 +45,7 @@
         - Performed in-depth exploratory data analysis to identify key trends and patterns that lead to actionable business insights.
         - Recreated World Bank data visualization, following Sir Hans Rosling’s style, showcasing data storytelling expertise.
         - Developed an interactive Air Quality Analysis dashboard using Tableau, incorporating dynamic filters and diverse visualizations for comprehensive data storytelling.
-  type: time_table
-  contents:
+    
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
         - Built FinetuneX, a modular from scratch framework for fine-tuning LLMs with custom architecture component following model technical reports.
@@ -67,12 +66,10 @@
     - year: 2025
       items:
         - Led team to third place in MegaHack, a national-level hackathon at SJCEM, achieving a podium finish among 80+ teams.
-
     - year: 2024
       items:
         - Secured 1st place among 100+ participants in Technical Quiz, demonstrating strong problem-solving and technical expertise.
         - Earned Runner-Up in Code-a-thon, a competitive programming contest with 100+ participants, showcasing coding proficiency.
-
     - year: 2023
       items:
         - Finalist in Technothon, an intercollege hackathon, recognized for technical innovation and effective collaboration under tight deadlines.
