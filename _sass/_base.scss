@@ -550,6 +550,18 @@ footer.sticky-bottom {
 
 // Blog
 
+.blog-title {
+  font-size: 2.2rem; 
+  color: #2698ba;
+  margin-bottom: 0.5rem;
+}
+
+.blog-subtitle {
+  font-size: 1.5rem; 
+  font-weight: normal;
+  color: var(--global-text-color);
+}
+
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;

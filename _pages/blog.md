@@ -12,10 +12,10 @@ nav_order: 1
   {% if site.blog_name or site.blog_description %}
   <div class="header-bar">
     {% if site.blog_name %}
-      <h2 style="color: #2698ba;">{{ site.blog_name }}</h2>
+      <h1 class="blog-title">{{ site.blog_name }}</h1>
     {% endif %}
     {% if site.blog_description %}
-      <h3>{{ site.blog_description }}</h3>
+      <h2>{{ site.blog_description }}</h2>
     {% endif %}
   </div>
   {% endif %}
