@@ -50,10 +50,10 @@
   contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
-        - Built FinetuneX, a modular from scratch framework for fine-tuning LLMs with custom architecture component following model technical reports.
+        - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with custom architecture components following model technical reports.
         - Implemented post-training algorithm (Supervised Fine-Tuning) with support for multiple model families (Qwen2.5 and LLama) and optimized training techniques.
         - Developed a user-facing platform enabling custom dataset upload, training configuration selection and base vs fine-tuned model comparison.
-        - Designed the framework to support multiple model architecture and future extensions for various fine-tuning capabilities (LoRA, QLoRA) and instruction tuning based on human preferences for research-oriented experimentation.
+        - Designed the framework to support multiple model architectures and future extensions for various fine-tuning capabilities (LoRA, QLoRA) and instruction tuning based on human preferences for research-oriented experimentation.
 
     - title: <a href="https://github.com/Khan-Ramsha/FasalGuru">FasalGuru</a>
       description:
