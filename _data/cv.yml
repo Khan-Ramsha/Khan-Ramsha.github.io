@@ -50,11 +50,11 @@
   contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
-        - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with custom architecture components following model technical reports.
-        - Implemented post-training algorithm (Supervised Fine-Tuning) with support for multiple model families (Qwen2.5 and LLama) and optimized training techniques.
-        - Developed a user-facing platform enabling custom dataset upload, training configuration selection and base vs fine-tuned model comparison.
-        - Designed the framework to support multiple model architectures and future extensions for various fine-tuning capabilities (LoRA, QLoRA) and instruction tuning based on human preferences for research-oriented experimentation.
-
+        - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with a **Self-Implemented Transformer (decoder-only)** architecture, implementing custom **multi-head attention**, **positional encoding**, and **normalization layers** based on model technical reports.
+        - Implemented supervised fine-tuning (SFT) with current support for Qwen2.5, including optimized training techniques for faster convergence.
+        - Developed a user-facing platform enabling dataset upload, training configuration selection, and base vs. fine-tuned model comparison.
+        - Designed the framework for extensibility, with planned support for additional architectures and post-training methods (LoRA, QLoRA, instruction tuning with human preference alignment).
+        
     - title: <a href="https://github.com/Khan-Ramsha/FasalGuru">FasalGuru</a>
       description:
         - Engineered an AI-powered agricultural assistant that delivers pest detection, irrigation guidance, fertilizer recommendations, and disease prevention tailored to real-time weather conditions.
