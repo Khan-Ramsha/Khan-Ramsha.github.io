@@ -50,7 +50,7 @@
   contents:
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
-        - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with a **Self-Implemented Transformer (decoder-only)** architecture, implementing custom **multi-head attention**, **positional encoding**, and **normalization layers** based on model technical reports.
+        - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with a <b>Self-Implemented Transformer (decoder-only)</b> architecture, implementing custom <b>multi-head attention</b>, <b>positional encoding</b>, and <b>normalization layers</b> based on model technical reports.
         - Implemented supervised fine-tuning (SFT) with current support for Qwen2.5, including optimized training techniques for faster convergence.
         - Developed a user-facing platform enabling dataset upload, training configuration selection, and base vs. fine-tuned model comparison.
         - Designed the framework for extensibility, with planned support for additional architectures and post-training methods (LoRA, QLoRA, instruction tuning with human preference alignment).
