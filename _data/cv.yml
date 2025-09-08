@@ -54,7 +54,7 @@
         - Implemented supervised fine-tuning (SFT) with current support for Qwen2.5, including optimized training techniques for faster convergence.
         - Developed a user-facing platform enabling dataset upload, training configuration selection, and base vs. fine-tuned model comparison.
         - Designed the framework for extensibility, with planned support for additional architectures and post-training methods (LoRA, QLoRA, instruction tuning with human preference alignment).
-        
+
     - title: <a href="https://github.com/Khan-Ramsha/FasalGuru">FasalGuru</a>
       description:
         - Engineered an AI-powered agricultural assistant that delivers pest detection, irrigation guidance, fertilizer recommendations, and disease prevention tailored to real-time weather conditions.
