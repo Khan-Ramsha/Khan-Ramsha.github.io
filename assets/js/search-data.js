@@ -46,7 +46,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-eduresource-hub",
+          section: "News",},{id: "projects-intracranial-aneurysm-detection",
+          title: 'Intracranial Aneurysm Detection',
+          description: "Detects the presence of aneurysms and localize them to one of 13 specific vascular regions using multimodal imaging data (CTA, MRI, MRA)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AneurysmDetection/";
+            },},{id: "projects-eduresource-hub",
           title: 'EduResource Hub',
           description: "EduResourceHub is an NLP-powered platform that recommends NPTEL courses and online resources by matching uploaded syllabi with the most relevant educational content using vector similarity.",
           section: "Projects",handler: () => {
