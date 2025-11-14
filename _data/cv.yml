@@ -48,6 +48,14 @@
 - title: Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/Khan-Ramsha/Intracranial-Aneurysm-Detection">Intracranial Aneurysm Detection</a>
+      description:
+        -  Built a machine learning pipeline to automate the early detection and anatomical localization of brain aneurysms in multimodal
+           3D imaging (CTA, MRA, T1/T2 MRI) to prevent ruptures.
+        - Leveraged RSNA 2025 Kaggle Competition dataset to train the EffficientNet model on 4348 unique brain scans of patients.
+        - Preprocessed and cached 3D DICOM brain scans as 2D multi-channel tensors, reducing per-epoch processing time by 60x.
+        - Optimized training with Weighted Binary Cross Entropy achieving a validation loss of 0.25 for multi-label classification.
+
     - title: <a href="https://github.com/Khan-Ramsha/FinetuneX">FinetuneX</a>
       description:
         - Built FinetuneX from scratch, a modular framework for fine-tuning LLMs with a <b>Self-Implemented Transformer (decoder-only)</b> architecture, implementing custom <b>multi-head attention</b>, <b>positional encoding</b>, and <b>normalization layers</b> based on model technical reports.
