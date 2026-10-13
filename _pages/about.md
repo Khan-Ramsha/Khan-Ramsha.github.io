@@ -32,4 +32,4 @@ When I'm not wrangling with tensors, you might find me reading research papers, 
 
 I'm excited to build **safe** and **explainable** intelligent systems that genuinely understand and navigate the messy, marvelous complexity of our world. (plot twist: some of the messiest problems teach you the most)
 
-<a href="{{ '/assets/pdf/Ramsha_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0"><i class="fa-solid fa-file-pdf"></i> View Resume</a>
+<a href="{{ '/assets/pdf/Ramsha_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0"><i class="fa-solid fa-file-pdf"></i></a>
