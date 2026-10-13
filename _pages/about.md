@@ -31,3 +31,5 @@ Somewhere along the way, I realised curiosity was my real co-pilot. It's what ke
 When I'm not wrangling with tensors, you might find me reading research papers, studying optimization algorithms (yes, it genuinely excites me).
 
 I'm excited to build **safe** and **explainable** intelligent systems that genuinely understand and navigate the messy, marvelous complexity of our world. (plot twist: some of the messiest problems teach you the most)
+
+<a href="{{ '/assets/pdf/Ramsha_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0"><i class="fa-solid fa-file-pdf"></i> View Resume</a>

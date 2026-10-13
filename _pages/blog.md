@@ -7,9 +7,11 @@ nav_order: 1
 ---
 
 <div class="post">
-  
+
   <!-- Blog Header (only shows if you have blog_name or blog_description in _config.yml) -->
-  {% if site.blog_name or site.blog_description %}
+
+{% if site.blog_name or site.blog_description %}
+
   <div class="header-bar">
     {% if site.blog_name %}
       <h1>{{ site.blog_name }}</h1>
@@ -23,7 +25,7 @@ nav_order: 1
   <!-- Simple post list -->
   <ul class="post-list">
     {% for post in site.posts %}
-    
+
     <!-- Calculate read time -->
     {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% assign year = post.date | date: "%Y" %}
